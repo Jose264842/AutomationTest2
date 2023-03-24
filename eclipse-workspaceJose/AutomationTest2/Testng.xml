@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test" >
+   <classes>
+      <class name="Actions.Existloginaction"/>
+      <class name="Actions.Newuserregistration"/>
+      <class name="Actions.Kycactions"/>
+      <class name="Actions.Depositaction"/>
+      <class name="Actions.Withdrawaction"/>
+      <class name="Actions.Pgredirectionaction"/>
+      <class name="Actions.Historyaction"/>
+      <class name="Actions.Profileactions"/>
+      <class name="Actions.Forgetpwdactions"/>
+    </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
